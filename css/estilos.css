@@ -2743,7 +2743,7 @@ strong, b {
 	font-weight: 600;
 }
 .widget {
-    background: #ffffff none repeat scroll 0 0;
+    background: url(https://cdn.rawgit.com/nelmaco/inmpar/0a1d5fe7/images/cont.jpg) no-repeat scroll 0 0;
     border-radius: 2px;
     display: inline-block;
     border: 1px solid #dddddd;
