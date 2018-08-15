@@ -2748,8 +2748,8 @@ strong, b {
     display: inline-block;
     border: 1px solid #dddddd;
     box-shadow: 0 1px 2px #f1f1f1;
-    margin-bottom: 27px;
-    padding: 30px;
+    margin-bottom: 0 !important;
+    padding: 0;
     position: relative;
     width: 100%;
 }
