@@ -2749,7 +2749,7 @@ strong, b {
     border: 1px solid #dddddd;
     box-shadow: 0 1px 2px #f1f1f1;
     margin-bottom: 0 !important;
-    padding: 0;
+    padding: 0 !important;
     position: relative;
     width: 100%;
 }
