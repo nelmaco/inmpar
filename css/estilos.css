@@ -4285,7 +4285,12 @@ strong, b {
 }
 @media only screen and (min-width: 480px) and (max-width: 550px) {
 	
-	
+	.pm-fancy span:after {
+		margin-left: 85px;
+	}
+	.pm-fancy {
+		line-height: 2;
+	}
 	.gallery-slide-cont {
 		bottom: 0px;
 	}
