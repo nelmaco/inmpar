@@ -3813,6 +3813,14 @@ strong, b {
 	
 
 @media only screen and (max-width: 480px) {
+	
+	.pm-fancy span:after {
+		margin-left: 85px !important;
+	}
+	.pm-fancy {
+		line-height: 2 !important;
+	}
+	
 	.pm-property-search-text-field {
     width: 100% !important;
 }
@@ -4284,13 +4292,7 @@ strong, b {
  }
 }
 @media only screen and (min-width: 480px) and (max-width: 550px) {
-	
-	.pm-fancy span:after {
-		margin-left: 85px;
-	}
-	.pm-fancy {
-		line-height: 2;
-	}
+
 	.gallery-slide-cont {
 		bottom: 0px;
 	}
