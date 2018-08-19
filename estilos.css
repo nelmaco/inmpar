@@ -2513,7 +2513,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: auto;
     background-color: #D0D0D0;
-    background-image: url(../img/bg-dark-small-full.jpg);
+    background-image: url(https://cdn.rawgit.com/nelmaco/inmpar/365b6744/images/bg-dark-small-full.jpg);
     background-repeat: repeat !important;
     position: relative;
 }
